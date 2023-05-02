@@ -1,5 +1,9 @@
 # Useful Graphics Resources
 
+**Great list of resources: Real-Time Rendering Portal**
+
+- https://www.realtimerendering.com/portal.html
+
 ## Ray Tracing
 
 - starting point https://raytracing.github.io/ (do all 3 of these)
