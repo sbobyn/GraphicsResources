@@ -4,6 +4,13 @@
 
 - https://www.realtimerendering.com/portal.html
 
+## Courses
+
+- Julia Computational Thinking MIT
+  - lectures https://www.youtube.com/playlist?list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ
+  - website https://computationalthinking.mit.edu/Fall22/
+  - github https://github.com/mitmath/computational-thinking
+
 ## Ray Tracing
 
 - starting point https://raytracing.github.io/ (do all 3 of these)
@@ -30,3 +37,4 @@
 - https://learnopengl.com/ https://github.com/JoeyDeVries/LearnOpenGL https://learn.microsoft.com/en-us/windows/win32/opengl/opengl
 - https://pyopengl.sourceforge.net/
 - https://www.pygame.org/news
+- CatlikeCoding Unity writeups https://catlikecoding.com/unity/tutorials/
